@@ -1,3 +1,3 @@
 - nom : Prin
 - prénom : Max
-- URL publique du site : https://main--leafy-dango-a5100d.netlify.app
+- URL publique du site : https://alpinejsprinmax.netlify.app
